@@ -1,0 +1,7 @@
+{
+  "name": "nfcStoperek",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
